@@ -871,7 +871,7 @@ CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 整容归来,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
 老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
 
-yy轮播,#gener#
+yy轮播,#genre#
 举起手来-惊险抗日,https://lunbo.freetv.top/yy/1382736877
 【鹿鼎记】金庸经典,https://lunbo.freetv.top/yy/28265277
 【狂飙2老默】首播,https://lunbo.freetv.top/yy/1354790484
